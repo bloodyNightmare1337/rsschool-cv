@@ -5,7 +5,6 @@
 <body>
         <div class="container">
             <div class="center-column">
-                <img class="profile-pic" src="leha.png" alt="Фотография">
                 <h1>Имя Фамилия</h1>
                 <h2>Разработчик</h2>
          </div>
