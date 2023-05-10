@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
+
         <div class="container">
             <div class="center-column">
                 <h1>Имя Фамилия</h1>
