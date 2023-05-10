@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Резюме - Имя Фамилия</title>
   </head>
   <body>
     <h1>Имя Фамилия</h1>
